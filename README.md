@@ -1,10 +1,10 @@
 # JavaScript 2D Mining Game
 
 A 2D browser game built purely with **HTML and JavaScript**, featuring interactive gameplay and basic game mechanics.  
-Control the miner as they navigate planks, collect diamonds, avoid enemies, and reach the end goal!
+Control the miner as he navigates platforms, collect diamonds, avoid enemies, and reach the end goal!
 
 ## 🎮 Features
-- **2D Platformer mechanics**: The miner jumps on planks and walks on the ground.  
+- **2D Platformer mechanics**: The miner jumps on platforms and walks on the ground.  
 - **Collectables**: Gather 10 diamonds scattered across the level.  
 - **Enemies & Hazards**: Avoid spiders and canyons that can end the game.  
 - **Lives System**: Player has 3 lives; lives decrease upon hitting enemies or falling.  
